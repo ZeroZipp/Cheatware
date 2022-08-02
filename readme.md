@@ -11,4 +11,4 @@ To open the ClickGUI press `Right Shift` on your keyboard
 Use `#help` for a list of commands
 
 ### Support
-Please report any issues on the [here](https://github.com/ZeroZipp/Cheatware/issues) or on our [discord](https://discord.gg/ETaw5jfHwz)
+Please report issues [here](https://github.com/ZeroZipp/Cheatware/issues) or on our [discord](https://discord.gg/ETaw5jfHwz)
