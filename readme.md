@@ -2,7 +2,7 @@
 Cheatware is NOT open source, but it may be in the future
 
 ### Installation
-Create a folder in `~/.minecraft/versions/Cheatware` and place the "Cheatware.json" in there
+Create a folder in `~/.minecraft/versions/Cheatware` and add the "Cheatware.json" file
 
 ### GUI
 To open the ClickGUI press `Right Shift` on your keyboard
