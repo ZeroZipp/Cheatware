@@ -1,6 +1,3 @@
-### Sourcecode
-Cheatware is NOT open source, but it may be in the future
-
 ### Installation
 Create a folder in `~/.minecraft/versions/Cheatware` and add the "Cheatware.json" file
 
